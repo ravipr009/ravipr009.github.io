@@ -1,0 +1,20 @@
+New Website Idea --
+https://alshedivat.github.io/al-folio/
+
+Criterion --
+1. Should be useful to the research community
+2. Should serve as a portfolia (collection of all accomploshments) for interviews
+
+
+Sections--
+1. Brief Intro
+2. Publications
+3. Reports / Blog
+Text reports could be found on medium. Latex reports can be found on github. A mix of all is put here.
+I want comments also. I want to push pdf directly also.
+
+
+
+4. Useful Links
+5. Previous projects (Should be made into an entire webpage)
+6. News (personal push, tensorflow package has come up) -- could be merged with useful link?
